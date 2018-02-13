@@ -1,3 +1,2 @@
-1. Build this code base from jenkind
-2. Deploy the code to tomacat setver
-3. use any configration management toll
+## Testers
+1. Execute smoke testaonpermise andcliud depl
